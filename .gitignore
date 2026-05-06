@@ -1,0 +1,11 @@
+data/
+
+*.csv
+*.xlsx
+*.xls
+*.json
+*.pdf
+data/
+카드소비 데이터_*/
+
+.ipynb_checkpoints/
